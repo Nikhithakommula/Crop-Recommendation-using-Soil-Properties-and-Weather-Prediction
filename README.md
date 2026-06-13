@@ -11,8 +11,7 @@ Machine learning based crop recommendation system using soil nutrients and weath
 - Random Forest (Best)
 
 ## Accuracy
-- Random Forest achieved ~95% accuracy
-
+- Achieved 87% prediction accuracy and reduced RMSE by 14% through model optimization
 ## Technologies Used
 - Python
 - Pandas
